@@ -1,0 +1,80 @@
+[
+  {
+    "id": "af393d6b-9b8e-45ec-ac9a-81b95968cce1",
+    "data": [
+      {
+        "text": "I would like to place and order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5301da18-6d9e-4403-bea1-d98da6c96cde",
+    "data": [
+      {
+        "text": "purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb75e4f3-800a-4775-a5e8-ce21fbddefb3",
+    "data": [
+      {
+        "text": "confirm and review cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dba007e2-eb70-44f8-ae70-6cf77066c673",
+    "data": [
+      {
+        "text": "review cart and purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20d81d16-ca36-4f05-859e-6f3440ce06e7",
+    "data": [
+      {
+        "text": "place order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0a90560-cd93-4bcf-b641-1996d3937adb",
+    "data": [
+      {
+        "text": "purchase items in cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

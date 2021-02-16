@@ -1,0 +1,9 @@
+{
+  "id": "8af4460b-8c01-4f48-812c-f0188a936ef3",
+  "name": "page",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "67c087a1-e2ce-4f16-ad3e-d7940a9f9387",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.any",
+        "alias": "num",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "wisconsin football hats",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": false
+      },
+      {
+        "text": " from cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6693fb2-8630-49e2-8d0b-5bd99a4592d0",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.any",
+        "alias": "num",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "white wisconsin visor",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "586c384a-3e23-49e6-bb9d-10e8e3d59b7e",
+    "data": [
+      {
+        "text": "remove from cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cd5b69c-6f37-4686-baf5-91169613c439",
+    "data": [
+      {
+        "text": "delete from cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b7b4ac7-432c-4fde-8125-535e6b211286",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "white wisconsin visor",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0198d122-7856-4563-a923-165607cf23ae",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "white wisconsin visor",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

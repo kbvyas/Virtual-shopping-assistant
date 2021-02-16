@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9ffd1d2d-35c3-4378-b3d4-ff72a36203fa",
+    "data": [
+      {
+        "text": "show all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "910afb6b-7f48-4ca2-b1de-8f9975306608",
+    "data": [
+      {
+        "text": "all products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccbee28b-4cbb-44c2-9ec1-7562b0f30f4c",
+    "data": [
+      {
+        "text": "show all products.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "9260d623-0d35-4479-a9c4-3848de7566e0",
+    "data": [
+      {
+        "text": "what categories are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02f1cad7-a7d1-4e87-9b17-36788a3c56f8",
+    "data": [
+      {
+        "text": "show categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "329b5cf2-66f0-4360-b2a3-9382baa3d4f4",
+    "data": [
+      {
+        "text": "categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ab45c9a-614d-4b18-aacc-46aef61fabdb",
+    "data": [
+      {
+        "text": "Show me the categories of product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92e7f15b-4023-473b-9a54-d696d494f296",
+    "data": [
+      {
+        "text": "Show me categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8e7c811-8402-4aa9-8f3a-30bfee8761df",
+    "data": [
+      {
+        "text": "Show me the categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

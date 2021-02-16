@@ -1,0 +1,59 @@
+[
+  {
+    "id": "0083d7ec-e0bf-4f32-ba9b-14c5f9942284",
+    "data": [
+      {
+        "text": "filter options for ",
+        "userDefined": false
+      },
+      {
+        "text": "hats",
+        "meta": "@Categories",
+        "alias": "category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cfd73ff-af61-4b34-b9bc-1d7721c2cf0b",
+    "data": [
+      {
+        "text": "tags for ",
+        "userDefined": false
+      },
+      {
+        "text": "hats",
+        "meta": "@Categories",
+        "alias": "category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a276115d-f425-4eb7-a10b-0a6b7670d324",
+    "data": [
+      {
+        "text": "show me tags for ",
+        "userDefined": false
+      },
+      {
+        "text": "hats",
+        "meta": "@Categories",
+        "alias": "category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

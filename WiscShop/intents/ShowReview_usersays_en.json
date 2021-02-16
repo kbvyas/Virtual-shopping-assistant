@@ -1,0 +1,41 @@
+[
+  {
+    "id": "57fc2114-7e4d-4b1f-8119-c985b3bd3e8d",
+    "data": [
+      {
+        "text": "average ratings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "949ed08f-feb4-4987-9745-49bb07331472",
+    "data": [
+      {
+        "text": "reviews",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ff00e53-0da8-4873-a8ad-2eeba982f0f9",
+    "data": [
+      {
+        "text": "show reviews",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

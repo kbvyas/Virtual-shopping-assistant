@@ -1,0 +1,132 @@
+[
+  {
+    "id": "a95fef26-923c-4022-8ff3-a8cacb8d42d2",
+    "data": [
+      {
+        "text": "What is in the cart right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2f76ffd-4f6a-45bf-ae25-3af133732d4f",
+    "data": [
+      {
+        "text": "information about the cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa80930f-d260-4821-963a-69613072f35c",
+    "data": [
+      {
+        "text": "total price in cart.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bda2a54-273d-4d09-a766-db6f35fb1b87",
+    "data": [
+      {
+        "text": "cart items.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0463d71c-0ca1-4ee2-a3fa-9d538e1adfa5",
+    "data": [
+      {
+        "text": "cart total",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ca900bf-6bf1-48a9-a81f-541632b59544",
+    "data": [
+      {
+        "text": "number of items in the cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c425003-1c2e-4344-96e8-d0d2bb9a5740",
+    "data": [
+      {
+        "text": "what is the cart total?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4c34fbd-4a5f-4547-b0bb-8aafe5f09557",
+    "data": [
+      {
+        "text": "how many items do i have in the cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c23d675-0c0f-4436-9fa1-c3b63fca4d57",
+    "data": [
+      {
+        "text": "show cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf64e2a5-2f5f-47de-ac22-d182314b7250",
+    "data": [
+      {
+        "text": "show me cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

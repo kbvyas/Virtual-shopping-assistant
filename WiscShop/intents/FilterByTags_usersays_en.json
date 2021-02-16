@@ -1,0 +1,107 @@
+[
+  {
+    "id": "a52e03e0-f97a-4d6a-ba97-072f816447ea",
+    "data": [
+      {
+        "text": "show me all products with tag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "440be12a-1d89-4728-90f9-4c5709a872af",
+    "data": [
+      {
+        "text": "show all products with ",
+        "userDefined": false
+      },
+      {
+        "text": "pillow",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": false
+      },
+      {
+        "text": " tag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "883fb62f-569c-4c6d-a9cf-92012a4e5871",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "pillow",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " ones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc243a21-7c61-448a-9888-e45545f55e49",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " ones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "032a457a-6e42-40a9-832d-ce6d62de9e21",
+    "data": [
+      {
+        "text": "show me all ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "meta": "@tag",
+        "alias": "tag",
+        "userDefined": true
+      },
+      {
+        "text": " ones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

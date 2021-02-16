@@ -1,0 +1,42 @@
+[
+  {
+    "id": "88564eac-64b8-4f6c-96f4-0017943b78ea",
+    "data": [
+      {
+        "text": "clear ",
+        "userDefined": false
+      },
+      {
+        "text": "cart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7df8b21a-6e09-4cf7-b496-ac30ba521c3a",
+    "data": [
+      {
+        "text": "remove all items from the ",
+        "userDefined": false
+      },
+      {
+        "text": "cart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

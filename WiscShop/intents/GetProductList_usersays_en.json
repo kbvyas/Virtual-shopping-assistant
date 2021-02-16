@@ -1,0 +1,59 @@
+[
+  {
+    "id": "5c9ce2e2-3891-41b0-a21f-9b4f820b5c07",
+    "data": [
+      {
+        "text": "show all types of ",
+        "userDefined": false
+      },
+      {
+        "text": "hats",
+        "meta": "@Categories",
+        "alias": "Categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b00d6a24-e22b-4256-9adf-a432e923201a",
+    "data": [
+      {
+        "text": "show me all products in ",
+        "userDefined": false
+      },
+      {
+        "text": "bottoms",
+        "meta": "@Categories",
+        "alias": "Categories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c28d9579-7b8e-4cf5-b489-80e9a771bde7",
+    "data": [
+      {
+        "text": "show all ",
+        "userDefined": false
+      },
+      {
+        "text": "hats",
+        "meta": "@Categories",
+        "alias": "Categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

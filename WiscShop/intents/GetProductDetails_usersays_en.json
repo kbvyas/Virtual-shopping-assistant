@@ -1,0 +1,72 @@
+[
+  {
+    "id": "be518f66-65e2-4fd6-861e-32ce6f26fd76",
+    "data": [
+      {
+        "text": "show product.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f410ac47-5348-4ebf-acd6-88a995eb3236",
+    "data": [
+      {
+        "text": "navigate to ",
+        "userDefined": false
+      },
+      {
+        "text": "Wisconsin Football Hat",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0eed1a45-c6b2-4b9e-a348-5d97ad8fe7b4",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "Wisconsin Football hat",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c7b7cbe-c524-4019-9f00-a2c5a5211a60",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Wisconsin Football Hat",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

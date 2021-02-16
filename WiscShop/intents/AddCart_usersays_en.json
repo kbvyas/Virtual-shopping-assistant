@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4e40bced-ec56-44ab-bad1-f82bdd6e2cac",
+    "data": [
+      {
+        "text": "add to cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee1ef962-1023-4c19-8480-54c0dfc561e1",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.any",
+        "alias": "num",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "white wisconsin visor",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe0f0fd1-88af-4223-ba3f-3dcce4cbd998",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "white wisconsin visor",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d608f9c0-29cd-4496-8fdc-073bdcd481f0",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "wisconsin footabll hat",
+        "meta": "@productname",
+        "alias": "productname",
+        "userDefined": true
+      },
+      {
+        "text": " to the cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

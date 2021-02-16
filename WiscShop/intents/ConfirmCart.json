@@ -1,0 +1,37 @@
+{
+  "id": "5922d24a-5969-4031-b883-7d9075f4de63",
+  "parentId": "95feb016-0c2d-4a3b-8246-a63484115a2a",
+  "rootParentId": "95feb016-0c2d-4a3b-8246-a63484115a2a",
+  "name": "ConfirmCart",
+  "auto": true,
+  "contexts": [
+    "cart-review",
+    "ReviewCart-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ReviewCart.ReviewCart-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
